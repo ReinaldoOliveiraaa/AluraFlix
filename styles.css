@@ -1,5 +1,7 @@
 header {
             color: white;
+            border-bottom: double 4px rgb(85, 155, 229);
+            padding: 25px;
         }
 body {
     color: red;
